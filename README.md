@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Matthew Deng 👋
 
+
+I am a fifth-year student studying computer engineering at the University of Waterloo.
 <!--
 **mattdengg/mattdengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
